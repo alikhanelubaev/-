@@ -1,0 +1,51 @@
+﻿.navbar
+{
+    position: fixed;
+    display: flex;
+    border: 1px solid black;
+    width: 1505px;
+
+}
+.image
+{
+    height:80px;
+    width:80px;
+    border-radius: 100%;
+    margin: 10px;
+}
+.bt1
+{
+    margin: 20px;
+    height: 50px;
+    width: 50px;
+}
+.bt2
+{
+    margin: 20px;
+    height: 50px;
+    width: 50px;
+}
+
+
+.mainy
+{
+    display: flex;
+    margin-top: 105px;
+    flex-direction: column;
+
+    height: 1000px;
+    width: 100%;
+}
+.first
+{
+    border: 1px solid black;
+    height: 500px;
+    width: 100%;
+}
+.second
+{
+    margin-top: 1px;
+    height: 500px;
+    width: 100%;
+    border: 1px solid black;
+} 
